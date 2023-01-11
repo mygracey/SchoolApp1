@@ -6,6 +6,7 @@ using namespace std;
 int main(){
 
 string username;
+string email;
 string password;
 string cpassword;
 
@@ -13,6 +14,8 @@ string cpassword;
 cout <<"Enter your username: " <<endl;
 cin>>username;
 
+cout <<"Enter email: " <<endl;
+cin>>email;
 
 cout <<"Enter your password: " <<endl;
 cin>>password;
